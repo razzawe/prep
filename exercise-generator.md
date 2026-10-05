@@ -1,6 +1,6 @@
 # Interview Practice Exercise Generator
 
-Generate a practice exercise for an AI-assisted coding interview. The format mirrors the Bloomberg workshop's "Pot Luck" example: a written spec, an existing codebase that does not fully match it, a shallow passing test suite, and one stubbed function the candidate implements after fixing the foundations.
+Generate a practice exercise for an AI-assisted coding interview. The format mirrors the workshop's "Pot Luck" example: a written spec, an existing codebase that does not fully match it, a shallow passing test suite, and one stubbed function the candidate implements after fixing the foundations.
 
 The candidate will work on this later. Never reveal bugs in the chat, in the spec, or anywhere inside the exercise folder.
 
